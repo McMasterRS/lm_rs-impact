@@ -33,3 +33,18 @@ It will take approximately 1 hour for Zenodo to generate a DOI and about a day f
 ![zenodo-4](assets/img/zenodo-4.png)
 
 ### Adding Your Research Software to Your ORCID ID Record
+
+Now that you have a DOI for your research software project, it is time to add it to your ORCID ID record.  
+
+Login your ORCID ID record. Go to "Works" and click the "Add" button. Select "Add DOI". Enter the DOI of your project and then click "Retrieve work details from DOI".  
+
+![orcid-1](assets/img/orcid-1.png)  
+![orcid-2](assets/img/orcid-2.png)  
+
+Edit the work details and the click "Add this work to your ORCID record".  
+
+![orcid-3](assets/img/orcid-3.png)  
+
+You will see the new entry in the ORCID ID work record.  
+
+![orcid-4](assets/img/orcid-4.png)  
