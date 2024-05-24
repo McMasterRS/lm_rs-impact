@@ -10,3 +10,12 @@ Contributions by the following individuals:
 - Online pages created by Kelvin Lee  
 
 All content is made available under a GNU General Public License v3.0.  
+
+## Support Guide
+
+This project is created and maintained by the McMaster University Research Software Development Team.  
+
+Please review the following documents to find out how you may contribute or get support.  
+- [Support and Help](https://github.com/McMasterRS/.github/blob/main/SUPPORT.md)
+- [Contributing Guidelines](https://github.com/McMasterRS/.github/blob/main/CONTRIBUTING.md)
+- [Security Policy](https://github.com/McMasterRS/.github/blob/main/SECURITY.md)
