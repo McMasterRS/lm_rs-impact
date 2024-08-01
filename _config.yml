@@ -2,7 +2,7 @@ title: Research Software and Research Impact # *** Enter learning module title h
 github_repo_url: "https://mcmasterrs.github.io/lm_rs-impact" # ***Enter learning module URL (in github pages) here
 gh_edit_repository: "https://github.com/McMasterRS/lm_rs-impact" #*** ENTER the github URL for your repo
 
-subtitle: "Research Software Development Learning Module Subtitle"
+subtitle: "Research Software Development Learning Module - Research Software and Research Impact"
 favicon_ico: "https://raw.githubusercontent.com/McMasterRS/learning_module-template/main/assets/img/favicon.ico"
 nav_footer_logo_bottom: "https://raw.githubusercontent.com/McMasterRS/learning_module-template/main/assets/img/logo.png"
 nav_footer_logo_bottom_href: "https://research.mcmaster.ca/home/support-for-researchers/research-resources/research-software-development/"
